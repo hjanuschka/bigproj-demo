@@ -1,0 +1,6 @@
+framework module DAAppsViewController {
+  umbrella header "DAAppsViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

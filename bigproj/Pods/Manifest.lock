@@ -1,0 +1,201 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - ARChromeActivity (1.0.6)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - CustomKINWebBrowser (0.2.5):
+    - ARChromeActivity
+    - TUSafariActivity (= 1.0.0)
+  - DAAppsViewController (1.4.0)
+  - DateTools (1.7.0)
+  - DCKeyValueObjectMapping (1.5)
+  - EAIntroView (2.9.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - Fabric (1.6.11)
+  - FBSDKCoreKit (4.17.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.17.0):
+    - FBSDKCoreKit
+  - FLAnimatedImage (1.0.12)
+  - FXBlurView (1.6.4)
+  - FXForms (1.2.14)
+  - FXNotifications (1.1.1)
+  - GoogleAnalytics (3.17.0)
+  - HCSStarRatingView (1.4.5)
+  - IQKeyboardManager (4.0.7)
+  - iRate (1.11.6)
+  - ISMethodSwizzling (0.0.2)
+  - ISRefreshControl (1.4.1):
+    - ISMethodSwizzling (~> 0.0.2)
+  - JVFloatLabeledTextField (1.1.1)
+  - LGPlaceholderView (1.0.2)
+  - M13BadgeView (1.0.4)
+  - MRoundedButton (1.1)
+  - NSObject-ObjectMap (2.3.1)
+  - NSString-HYPContainsString (0.1)
+  - NSString-UrlEncode (2.1.0)
+  - OneSignal (2.2.0)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - REFrostedViewController (2.4.8)
+  - RMStepsController (1.0.1)
+  - SimulatorRemoteNotifications (0.0.3)
+  - SpinKit (1.2.0)
+  - TUSafariActivity (1.0.0)
+  - TWSReleaseNotesView (1.2.0)
+  - UIActionSheet-Blocks (1.0.1)
+  - UIAlertView+Blocks (0.9)
+  - UIColor-HexString (1.1.0)
+  - UICountingLabel (1.2.0)
+  - UIImage-ResizeMagick (0.0.1)
+  - UITableView-NXEmptyView (0.1.7)
+  - ZLSwipeableView (0.0.8)
+
+DEPENDENCIES:
+  - AFNetworking (from `https://github.com/AFNetworking/AFNetworking.git`, branch `master`)
+  - Crashlytics
+  - CustomKINWebBrowser
+  - DAAppsViewController
+  - DateTools
+  - DCKeyValueObjectMapping
+  - EAIntroView
+  - Fabric
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FLAnimatedImage
+  - FXBlurView
+  - FXForms
+  - FXNotifications
+  - GoogleAnalytics
+  - HCSStarRatingView
+  - IQKeyboardManager
+  - iRate (~> 1.11)
+  - ISRefreshControl (~> 1.4.1)
+  - JVFloatLabeledTextField
+  - LGPlaceholderView
+  - M13BadgeView
+  - MRoundedButton (from `https://github.com/rohanaurora/MRoundedButton.git`)
+  - NSObject-ObjectMap
+  - NSString-HYPContainsString (from `https://github.com/hyperoslo/NSString-HYPContainsString.git`)
+  - NSString-UrlEncode (from `https://github.com/kevinrenskers/NSString-URLEncode.git`)
+  - OneSignal
+  - PNChart
+  - REFrostedViewController
+  - RMStepsController (from `https://github.com/CooperRS/RMStepsController.git`, branch `UnlimitedSteps`)
+  - SimulatorRemoteNotifications
+  - SpinKit
+  - TWSReleaseNotesView
+  - UIActionSheet-Blocks
+  - UIAlertView+Blocks (~> 0.8)
+  - UIColor-HexString (from `https://github.com/hjanuschka/UIColor-HexString.git`)
+  - UIImage-ResizeMagick
+  - UITableView-NXEmptyView
+  - ZLSwipeableView
+
+EXTERNAL SOURCES:
+  AFNetworking:
+    :branch: master
+    :git: https://github.com/AFNetworking/AFNetworking.git
+  MRoundedButton:
+    :git: https://github.com/rohanaurora/MRoundedButton.git
+  NSString-HYPContainsString:
+    :git: https://github.com/hyperoslo/NSString-HYPContainsString.git
+  NSString-UrlEncode:
+    :git: https://github.com/kevinrenskers/NSString-URLEncode.git
+  RMStepsController:
+    :branch: UnlimitedSteps
+    :git: https://github.com/CooperRS/RMStepsController.git
+  UIColor-HexString:
+    :git: https://github.com/hjanuschka/UIColor-HexString.git
+
+CHECKOUT OPTIONS:
+  AFNetworking:
+    :commit: 4f3c694920ed0f5d3a8e180aacaf3af40c2efb4a
+    :git: https://github.com/AFNetworking/AFNetworking.git
+  MRoundedButton:
+    :commit: fe01fde4b059cae0c4c201985fb10276a0ae50ea
+    :git: https://github.com/rohanaurora/MRoundedButton.git
+  NSString-HYPContainsString:
+    :commit: 86b06d6677ec365d54427eb7e4fbb832d67b382d
+    :git: https://github.com/hyperoslo/NSString-HYPContainsString.git
+  NSString-UrlEncode:
+    :commit: d647f29f9ff0e8964f11c5706f80259c1aed5b13
+    :git: https://github.com/kevinrenskers/NSString-URLEncode.git
+  RMStepsController:
+    :commit: 6040f3b4b790a2c86c6c8df21805a13c114cab5f
+    :git: https://github.com/CooperRS/RMStepsController.git
+  UIColor-HexString:
+    :commit: cf7cf81f3d22802b5373e8f61335f42f33275243
+    :git: https://github.com/hjanuschka/UIColor-HexString.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  ARChromeActivity: 5dcf9b9f09323761f992aff3525cdd777f83609d
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  CustomKINWebBrowser: f559c8731b0f13f4eea8d31cab985a11a56efd64
+  DAAppsViewController: 2fe4168df2bc65d7dc8c8d427b995dcffc66b8bd
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  DCKeyValueObjectMapping: c2eb5a6529da100b2e49ef6a599663578051f077
+  EAIntroView: 76f68cc56242f2e25359419e6ecc2344ee7e1756
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  FBSDKCoreKit: 30a21d2d7b92984b3d80497113433c00824c35e9
+  FBSDKLoginKit: 42b7129ac0373ca99eaf4cbebf4d07bd42371f59
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  FXForms: 724500c0c3f3eb3ba1004b3b83abcee55d3daf18
+  FXNotifications: 5b4a90a3ae5bccce93d33070bed79da27c8c811e
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  HCSStarRatingView: bff3f89314d3b5013ce826ea11897d3129ff6b8c
+  IQKeyboardManager: 69002bb4fea60596b710e57d426abc00e5063630
+  iRate: 61e558919c4a7fde63b3c22ebbd6c114a1eee658
+  ISMethodSwizzling: 5dafeb2efca548b0cc1407b265408974dfd85168
+  ISRefreshControl: af7e6fc05fa952b8806156b890ec9b329f6c4ff9
+  JVFloatLabeledTextField: 0e5524b097f102036214dd8279edc8ecf08b5e18
+  LGPlaceholderView: 37ae1eaca38ace1418ae74e4d9db8fa5738367a2
+  M13BadgeView: 700dd0714fdc837c0cf1c8c004454963ec22441f
+  MRoundedButton: 13433aded5cc60810d6d0549ac0c97add33c4530
+  NSObject-ObjectMap: 3223c0c994a8e3de44ccb74ddf3e63c86821c015
+  NSString-HYPContainsString: 609b15b2a56d151952f9cb89db9e4aa1589ba7bb
+  NSString-UrlEncode: 92dcb01cac33ef036cda76baf0e4378b18779e47
+  OneSignal: 689099c1af05d1635a01190c3d9c6b0016971fd5
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  RMStepsController: af8417ccc94f5e08967f7162bbd589ec2ac1d9a5
+  SimulatorRemoteNotifications: 1610643e0582b2af67bc254b071ace4077e8ef86
+  SpinKit: 65906a8b534a4e14cbfd3f8b0b6c329131faef4a
+  TUSafariActivity: dd346df54a8f1cbb4fd05d504c76d47225fac99e
+  TWSReleaseNotesView: 52cfe9ddf562b171998a5f285ca4f843880ce6f8
+  UIActionSheet-Blocks: a5781709d4c7e1bf81e0498caf187ab0535e5caf
+  UIAlertView+Blocks: a46c99c5144f6c5dbc7d62fd2a0678daceec89a3
+  UIColor-HexString: f8a5612bd6772fed8db58ee594b42a0b2831750e
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  UIImage-ResizeMagick: f08c2d14d1e8a5f0b402185408785540562f2fe7
+  UITableView-NXEmptyView: 0bc404cfd9c201af518a63240ac4ac4dad2c69c2
+  ZLSwipeableView: df385760ff4838935cdbcb62878ac5acd7355949
+
+PODFILE CHECKSUM: d36f05ca7f490cb3b4458bbd4d6b26e1e94c1474
+
+COCOAPODS: 1.1.0.rc.2

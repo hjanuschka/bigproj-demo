@@ -1,0 +1,6 @@
+framework module Pods_bigproj {
+  umbrella header "Pods-bigproj-umbrella.h"
+
+  export *
+  module * { export * }
+}

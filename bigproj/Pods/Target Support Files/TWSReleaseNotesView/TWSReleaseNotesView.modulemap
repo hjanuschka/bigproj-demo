@@ -1,0 +1,6 @@
+framework module TWSReleaseNotesView {
+  umbrella header "TWSReleaseNotesView-umbrella.h"
+
+  export *
+  module * { export * }
+}

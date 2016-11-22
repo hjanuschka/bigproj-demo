@@ -1,0 +1,6 @@
+framework module MRoundedButton {
+  umbrella header "MRoundedButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
